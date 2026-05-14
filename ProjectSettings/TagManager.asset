@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Gelb_Trigger
+  - Blau_Trigger
+  - Rot_Trigger
   layers:
   - Default
   - TransparentFX
@@ -43,6 +46,18 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 823027847
+    locked: 0
+  - name: Farbwechsel Boxes
+    uniqueID: 3895277269
+    locked: 0
+  - name: StoryBox
+    uniqueID: 2756381797
+    locked: 0
+  - name: Sortieren
+    uniqueID: 1261659713
+    locked: 0
+  - name: Moodling
+    uniqueID: 3396106371
     locked: 0
   - name: Player
     uniqueID: 476821001
